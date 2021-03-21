@@ -1,2 +1,3 @@
-# mimimi-maker
-App estudo react-native components
+# MIMIMI MAKER!
+
+Aplicativo de teste para estudo de React-Native utilizando react component.
